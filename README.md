@@ -9,6 +9,10 @@ Access this Binder at the following URL:
 
 https://mybinder.org/v2/gh/andreasplesch/conda/master?filepath=sphere.ipynb
 
+or from here with more options:
+
+https://mybinder.org/v2/gh/andreasplesch/conda/master/?urlpath=lab/tree/sphere.ipynb
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
