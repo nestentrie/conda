@@ -2,7 +2,11 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - pyjnius 
+  - pyjnius
+# downgrade  
+  - jupyterlab==0.35.3
+#  - nbconvert==5.4.1
+  - notebook==5.7.5
 #  - numpy
 #  - psutil
 #  - toolz
