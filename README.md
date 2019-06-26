@@ -1,17 +1,17 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderextreme/conda/master?filepath=sphere.ipynb
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nestentrie/conda/master?filepath=sphere.ipynb
 )
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder at the following URL:
 
-https://mybinder.org/v2/gh/coderextreme/conda/master?filepath=sphere.ipynb
+https://mybinder.org/v2/gh/nestentrie/conda/master?filepath=sphere.ipynb
 
 or from here with more options:
 
-https://mybinder.org/v2/gh/coderextreme/conda/master/?urlpath=lab/tree/sphere.ipynb
+https://mybinder.org/v2/gh/nestentrie/conda/master/?urlpath=lab/tree/sphere.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
